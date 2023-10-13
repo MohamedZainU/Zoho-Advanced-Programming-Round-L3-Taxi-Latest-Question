@@ -60,6 +60,19 @@ Taxi ID 3 current Spot is E
 Now we can assign Taxi 4 cause we gave Taxi 4 rest once so yeah
 
 
+From Origin to A -> 1;
+From Origin to B -> 2;
+From Origin to C -> 3;
+From Origin to D -> 4;
+From Origin to E -> 5;
+From Origin to F -> 6;
+From Origin to G -> 7;
+
+Numbers Represents Distance from the Origin Point
+
+the above all details will be given in the question
+
+
 
 1. You will be given 4 Taxi for that 4 Taxi each Taxi will be provided with ID and current Spot
 
